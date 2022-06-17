@@ -1,0 +1,25 @@
+.bg{
+    background:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)
+        ),
+    
+    url(../img/bg2.jpg);
+}
+
+body {
+    font-family: "Trirong", serif;  
+  }
+
+  body, .bg-navbar{
+    background-color: rgb(233, 158, 135) !important;
+
+}
+
+.image img{
+    width: 35%;
+}
+.footer {
+    background-color: black;
+    margin-top: 5%;
+}
